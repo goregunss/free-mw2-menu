@@ -1,0 +1,1 @@
+holdFireTime on lightstick=1.87
